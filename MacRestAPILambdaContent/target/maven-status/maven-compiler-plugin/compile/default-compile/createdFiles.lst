@@ -1,0 +1,4 @@
+entities/Content.class
+devop/ContentService.class
+devop/Utility.class
+devop/LambdaHandler.class
